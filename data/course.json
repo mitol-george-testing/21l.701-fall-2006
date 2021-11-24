@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "feb201cd-5285-be49-1c71-01ab5905e703"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Literary Interpretation: Beyond the Limits of the Lyric",
+  "course_description": "In this seminar we'll read individual poems closely within a set of questions about the moral and political position of poetry -- and of intellectuals -- in different cultural contexts. Of course, part of the divergence in the social positions of poetry \\[and of 'the aesthetic'\\] depends on the dominant paradigm of the social, political and literary culture; part of the divergence derives from the momentum of literary development in the culture \\[how did the culture experience modernism?, for instance\\], and part depends on the different attitudes toward traditional form. We read poets from North America (Whitman, Williams, Lowell, Plath, Bishop), from South America (Neruda), from Western Europe (Yeats), and Eastern Europe (Akhmatova, Szymborska); we conclude with a month dedicated to the work of the Polish poet Czeslaw Milosz, who won the Nobel Prize for literature (the first to win from a position of exile) in 1980.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.701",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
